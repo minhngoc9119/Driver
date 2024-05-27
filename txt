@@ -1,4 +1,5 @@
-#download from https://github.com/RinCat/RTL88x2BU-Linux-Driver.git
+#download from https://github.com/RinCat/RTL88x2BU-Linux-Driver.git for REALTEK RTL88x2B USB Linux Driver
+#download from https://github.com/nlkguy/archer-t2u-plus-linux.git for TP-Link Archer T2U Plus a.k.a AC600 High-Gain
 # fix error linux header:
 - after by cmd:
  sudo apt update and sudo apt upgrade
