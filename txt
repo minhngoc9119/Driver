@@ -4,4 +4,4 @@
 - after by cmd:
  sudo apt update and sudo apt upgrade
 - chek linux header:
- uname -r and  sudo apt-cache search linux-headers if  result from  search < version uname -r result run: apt-get dist-upgrade
+ uname -r and  sudo apt-cache search linux-headers if  result from  search < version uname -r result run upgrading the Linux kernel: apt-get dist-upgrade
